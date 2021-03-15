@@ -1,0 +1,315 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.UpperBar{
+  background-color: #F17922;
+  padding-bottom: 15px;
+  border: 10px solid #F17922;
+  border-radius: 0px 0px 20px 20px;
+  filter: drop-shadow(3px 6px 4px #555556);
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+logo {
+  color: white;
+  text-shadow: 5px 5px grey;
+  font-family: "Arial Black", Gadget, sans-serif;
+  letter-spacing: 0px;
+  font-size: 30px;
+}
+
+.AboutSecurity{
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  font-size: 20px;
+  padding-left: 1050px;
+  margin-top: -30px;
+  margin-left: 225px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.AboutSecurity a:hover{
+  color: #C5C5C5;
+}
+
+.AboutApp{
+  color: white;
+}
+
+.AboutUs{
+  color:white;
+}
+
+.Security{
+  color: white;
+}
+
+.DownloadLINK{
+  color: white;
+}
+
+
+.lawnmower{
+  padding-top: 0px;
+  margin-bottom: -50px;
+  padding-bottom: 60px;
+  width: 1903px;
+  position: absolute;
+  z-index: -1;
+}
+
+.all{
+  padding-top: 880px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.SearchWorkCashOutPictures{
+display: flex;
+justify-content: space-between;
+width: 960px;
+padding-left: 425px;  
+padding-right: 478px;
+padding-bottom: 70px;
+background-color: #E3E1E1;  
+border-radius: 20px 20px 20px 20px;
+}
+
+.SearchWorkCashOutText{
+  display: flex;
+  justify-content: space-between;
+  width: 950px;
+  padding-left: 480px;
+  margin-top: -60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  
+}
+
+.Search{
+  width: 200px;
+}
+
+.Work{
+  width: 200px;
+}
+
+.CashOut{
+  width: 200px;
+}
+
+.imagetext1 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 90px;
+  color: white;
+  opacity: 0.95;
+  font-family: Marker Felt, fantasy;
+}
+
+.Promo{
+  margin-top: 35px;
+  background-color: #E3E1E1;
+  border-radius: 20px 20px 20px 20px;
+  padding-bottom: 525px;
+}
+
+.PromoPictures{
+  padding-top: 60px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.PromoText{
+  padding-left: 740px;
+  margin-top: -450px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.RequestAccept{
+  font-size: 40px;
+}
+
+.EasilyEarn{
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+#DivOne{
+margin-top: 18px;
+background-color: #E3E1E1;  
+border-radius: 20px 20px 20px 20px;
+}
+
+.TitleOne{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.TextOne{
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.ArticleOne {
+width: 500px;
+padding-top: 50px;
+padding-left: 175px;
+padding-bottom: 50px;
+}
+
+.ImageOne{
+  margin-left: 1150px;
+  margin-bottom: 150px;
+  margin-top: -200px;
+}
+
+#NavTwonThree{
+  background-color: #E3E1E1;
+  border-radius: 20px 20px 20px 20px;
+  margin-top: -100px;
+}
+
+.ImageTwoThree{
+  margin-left: 150px;
+  padding-top: 50px;
+}
+
+.TitleTwo{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.TextTwo{
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.ArticleTwo {
+  width: 500px;
+  margin-left: 1000px;
+  margin-bottom: 400px;
+  margin-top: -400px;
+  padding-bottom: 325px;
+}
+
+.TitleThree{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#NavThree{
+background-color: #E3E1E1;
+padding-top: 125px;
+padding-bottom: 85px;
+border-radius: 20px 20px 20px 20px;
+margin-top: -380px;
+}
+
+.TextThree{
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.ArticleThree {
+  width: 500px;
+  margin-left: 175px;
+}
+
+.ImageFour {
+  margin-left: 1100px;
+  margin-top: -200px;
+  margin-bottom: 100px;
+}
+
+.TitleFour{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.TextFour{
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.Donate{
+  width: 500px;
+  margin-top: -300px;
+  margin-left: 175px;
+}
+
+.Subscribe{
+  margin-top: 40px;
+  margin-left: 175px;
+}
+
+.Sub{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+
+
+#Download{
+  background-color: #E3E1E1;
+  border-radius: 20px 20px 20px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.AvailableOn{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 175px;
+  
+}
+
+.DownloadLinks{
+padding-left: 150px;  
+  
+}
+
+.AppleStore{
+  width: 150px;
+}
+
+.GooglePlay{
+  width: 190px;
+  margin-bottom: -11px;
+  padding-left: 10px;
+  
+}
+
+.DownloadButton{
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F17922;
+  color: white;
+  font-size: 25px;
+  margin-left: 10px;
+  border-radius: 10px 10px 10px 10px;
+  margin-top: -10px;
+}
+
+footer{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F17922;
+  color: white;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.Contacts{
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.CopyRight{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+
